@@ -13,8 +13,8 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.0/ClipboardSyncMac-0.1.0.zip"
-                sparkle:edSignature="LxH1UDqU/Fcc+XRh6oHXrtmBBIM3qkH5Rp1ADYWcpjzaBwV/SN7PnT/A+t6XrwNNb87buI5AYP76LQE+XJ2KBQ=="
-                length="4178776"
+                sparkle:edSignature="DLcg7Pek8gp8Yn1Laqbbnj9m8K4wfNbSC6XmMH5G5dDVsyqL39JjlqdDUgu2XgYq4FF+9BS2GafzE0VqZeCRDA=="
+                length="4399128"
                 type="application/octet-stream" />
         </item>
     </channel>
