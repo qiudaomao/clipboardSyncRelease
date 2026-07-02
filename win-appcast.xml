@@ -10,7 +10,7 @@
       <pubDate>Thu, 02 Jul 2026 14:56:00 +08:00</pubDate>
       <sparkle:version>0.1.1</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.1/ClipboardSyncWinSetup-v0.1.1.exe" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="2859685" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="PCpFT6kaC8V806Rek3mT9JdPtDF+0iMrPa4UGxHHqVQama86fbpKKKVkz9DjV2WtEKZRqR3yYvKSdjHD2H12Bw==" />
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.1/ClipboardSyncWinSetup-v0.1.1.exe" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="2859637" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="7gacrqBm0AY90jJJxEovCVGmB08RFQYS+slJZvhKig/hWN4oRDu12pXg873XUc1hxZzjWEVCT72iW5CY21xsAw==" />
     </item>
   </channel>
 </rss>
