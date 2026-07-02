@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Clipboard Sync</title>
+    <link>https://raw.githubusercontent.com/qiudaomao/clipboardSyncRelease/main/win-appcast.xml</link>
+    <description>Clipboard Sync Windows release feed</description>
+    <language>en</language>
+    <item>
+      <title>Clipboard Sync 0.1.1</title>
+      <pubDate>Thu, 02 Jul 2026 14:56:00 +08:00</pubDate>
+      <sparkle:version>0.1.1</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.1/ClipboardSyncWinSetup-v0.1.1.exe" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="51304321" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="2or3MT2UzfsrJE1Id19Xz7RfRRV/5PUKsNizxfjemZqKKbzK+oUmToHiTw2s0xoolNk2LALWq/pG8eKi98iUCQ==" />
+    </item>
+  </channel>
+</rss>
