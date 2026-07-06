@@ -6,6 +6,18 @@
         <description>Clipboard Sync macOS release feed</description>
         <language>en</language>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Mon, 06 Jul 2026 02:38:19 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.5/ClipboardSyncMac-0.1.5.zip"
+                sparkle:edSignature="g54UNINmV8MOMVtZJ3zK8S2Wqu+zLnBwgV5JnBKyeMPheFTAQoMdNTtVJ6v+tecz+yUnkef7qm5kfg9uzP6sCw=="
+                length="4406978"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Mon, 06 Jul 2026 02:09:23 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
