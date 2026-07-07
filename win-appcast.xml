@@ -5,11 +5,18 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
+      <title>Clipboard Sync 0.1.6</title>
+      <pubDate>Tue, 07 Jul 2026 17:14:25 +08:00</pubDate>
+      <sparkle:version>0.1.6</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.6/ClipboardSyncWinSetup-v0.1.6.exe" sparkle:version="0.1.6" sparkle:shortVersionString="0.1.6" length="2866435" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="kazWAznhKZlWeM1pl9e26D6tx+6iBDWOxD8YUk9zc5ZijsYJm2JMPhOr0fTMp9BVvybcmW0GjF9lOYZssKBUBA==" />
+    </item>
+    <item>
       <title>Clipboard Sync 0.1.5</title>
       <pubDate>Mon, 06 Jul 2026 16:38:37 +08:00</pubDate>
       <sparkle:version>0.1.5</sparkle:version>
       <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
-      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.5/ClipboardSyncWinSetup-v0.1.5.exe" sparkle:version="0.1.5" sparkle:shortVersionString="0.1.5" length="2866650" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="2LDLZZWNhi4dT7cp9cGwaa9xGgSfPzL4PP9zVr/HYB9QClWgyoacJg2JH0fh1B6ilGY0mNGyTGO4anLf9huVCw==" />
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.5/ClipboardSyncWinSetup-v0.1.5.exe" sparkle:version="0.1.5" sparkle:shortVersionString="0.1.5" length="2866650" sparkle:os="windows-x64" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="2LDLZZWNhi4dT7cp9cGwaa9xGgSfPzL4PP9zVr/HYB9QClWgyoacJg2JH0fh1B6ilGY0mNGyTGO4anLf9huVCw==" />
     </item>
     <item>
       <title>Clipboard Sync 0.1.4</title>
