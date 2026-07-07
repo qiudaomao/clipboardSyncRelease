@@ -6,10 +6,10 @@
     <language>en</language>
     <item>
       <title>Clipboard Sync 0.1.6</title>
-      <pubDate>Tue, 07 Jul 2026 17:14:25 +08:00</pubDate>
+      <pubDate>Tue, 07 Jul 2026 17:30:23 +08:00</pubDate>
       <sparkle:version>0.1.6</sparkle:version>
       <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
-      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.6/ClipboardSyncWinSetup-v0.1.6.exe" sparkle:version="0.1.6" sparkle:shortVersionString="0.1.6" length="2866435" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="kazWAznhKZlWeM1pl9e26D6tx+6iBDWOxD8YUk9zc5ZijsYJm2JMPhOr0fTMp9BVvybcmW0GjF9lOYZssKBUBA==" />
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.6/ClipboardSyncWinSetup-v0.1.6.exe" sparkle:version="0.1.6" sparkle:shortVersionString="0.1.6" length="2865941" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="qrOdgQkI321vkvKiOnHiAeGnfdW2MZcfRYsrAaOxNlmsQzoVBFbeCAFcP49k/J3eHKHknE5/XQJxj4xhqz+4Cg==" />
     </item>
     <item>
       <title>Clipboard Sync 0.1.5</title>
