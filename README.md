@@ -45,7 +45,7 @@ Once connected:
 Input Sharing is off by default:
 
 1. Enable it from Settings/Configure or the menu/tray.
-2. Choose a direction: `Server -> Client` or `Client -> Server`.
+2. Select the control device: `Server -> Client` or `Client -> Server`.
 3. Open **Screen Layout...** and drag each machine's screen rectangle to match how they physically sit relative to each other, so the cursor crosses over naturally.
 4. On macOS, grant Accessibility/Input Monitoring permission when prompted — it's required for keyboard and mouse sharing to work.
 
