@@ -6,6 +6,19 @@
         <description>Clipboard Sync macOS release feed</description>
         <language>en</language>
         <item>
+            <title>0.1.13</title>
+            <description>work around macOS 27 (Golden Gate) beta focus regression: remote clicks now explicitly activate and raise the window under the cursor before the click is delivered</description>
+            <pubDate>Wed, 08 Jul 2026 10:32:06 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.13/ClipboardSyncMac-0.1.13.zip"
+                sparkle:edSignature="BNKVKWsX04e9UELJFCHfyDSHIatMuscxOErxDUHNyPBo5iEg1NjMVdCqiz3e6Ld8jyeXTFw4VQB9Sj5dEhe0Dg=="
+                length="4615635"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.12</title>
             <description>chunked targeted file transfer (no size limit, per-file checksum, progress); fix silent transfer failures (1 MiB client cap, WebSocket fragmentation)</description>
             <pubDate>Wed, 08 Jul 2026 08:06:02 +0000</pubDate>
