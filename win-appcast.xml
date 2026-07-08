@@ -5,6 +5,13 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
+      <title>Clipboard Sync 0.1.12</title>
+      <pubDate>Wed, 08 Jul 2026 18:03:35 +08:00</pubDate>
+      <sparkle:version>0.1.12</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.12/ClipboardSyncWinSetup-v0.1.12.exe" sparkle:version="0.1.12" sparkle:shortVersionString="0.1.12" length="2895682" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="KdxX5D0NcwOl0QCgfjqHPx9kftWLPF2WKuzIUsC34DZVADsWzfPDjRjz5KtrN2T+QEPkIBlxVo6doP8D8GBXCQ==" />
+    </item>
+    <item>
       <title>Clipboard Sync 0.1.11</title>
       <pubDate>Wed, 08 Jul 2026 12:51:51 +08:00</pubDate>
       <sparkle:version>0.1.11</sparkle:version>
