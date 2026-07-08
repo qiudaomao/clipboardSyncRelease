@@ -6,6 +6,19 @@
         <description>Clipboard Sync macOS release feed</description>
         <language>en</language>
         <item>
+            <title>0.1.11</title>
+            <description>add port forward feature</description>
+            <pubDate>Wed, 08 Jul 2026 04:41:25 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.11/ClipboardSyncMac-0.1.11.zip"
+                sparkle:edSignature="6rBS9r+/5gpCI8wiYQU39dPwnogyqSKkqz/vi2xGAsSc/dQdNE0B8i53QosUEu/hbf2+dD8+5q6f4NooAmPvDg=="
+                length="4552331"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.10</title>
             <pubDate>Wed, 08 Jul 2026 02:05:41 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
