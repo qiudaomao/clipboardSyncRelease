@@ -6,6 +6,19 @@
         <description>Clipboard Sync macOS release feed</description>
         <language>en</language>
         <item>
+            <title>0.1.12</title>
+            <description>chunked targeted file transfer (no size limit, per-file checksum, progress); fix silent transfer failures (1 MiB client cap, WebSocket fragmentation)</description>
+            <pubDate>Wed, 08 Jul 2026 08:06:02 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.12/ClipboardSyncMac-0.1.12.zip"
+                sparkle:edSignature="JIRx2fPKCnfAyReOfqYdpc9KTc4Tf0Hy1AVgwNwW1xlkqLf/FlvQdnAbyMQiQ09NpXlTCNNocTh9DqYX9dcKCw=="
+                length="4611667"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.11</title>
             <description>add port forward feature</description>
             <pubDate>Wed, 08 Jul 2026 04:41:25 +0000</pubDate>
