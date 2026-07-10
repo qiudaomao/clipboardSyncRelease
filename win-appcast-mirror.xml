@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- jsDelivr mirror of win-appcast.xml for networks where GitHub is unreachable. Enclosure URLs
-     point at jsDelivr-served copies of the release assets committed under releases/, so the
-     download works from the same source that served this feed. Keep the newest item(s) here in
-     sync with win-appcast.xml when releasing (same signature and length; only the URL differs). -->
+<!-- Mirror of win-appcast.xml for networks where GitHub is unreachable; the app falls back to
+     this feed via jsDelivr. jsDelivr refuses to serve .exe files, so the enclosure goes through
+     a GitHub download proxy instead — swap the proxy host here any time it stops working; no
+     app update is needed. The Ed25519 signature check protects the download against tampering
+     regardless of which host serves it. Keep the newest item(s) in sync with win-appcast.xml
+     when releasing (same signature and length; only the URL differs). -->
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Clipboard Sync</title>
@@ -12,7 +14,7 @@
       <pubDate>Fri, 10 Jul 2026 17:10:29 +08:00</pubDate>
       <sparkle:version>0.1.18</sparkle:version>
       <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
-      <enclosure url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSyncWinSetup-v0.1.18.exe" sparkle:version="0.1.18" sparkle:shortVersionString="0.1.18" length="2897994" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="uUMWikZ2scCoRBsvyRt7+0byBMjRZtbzzqQo02PXFeyaK+xwDhv2Rm/qgFNEETDlg6biq2Zn47doqCswtZvgDw==" />
+      <enclosure url="https://gh-proxy.com/https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.18/ClipboardSyncWinSetup-v0.1.18.exe" sparkle:version="0.1.18" sparkle:shortVersionString="0.1.18" length="2897994" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="uUMWikZ2scCoRBsvyRt7+0byBMjRZtbzzqQo02PXFeyaK+xwDhv2Rm/qgFNEETDlg6biq2Zn47doqCswtZvgDw==" />
     </item>
   </channel>
 </rss>
