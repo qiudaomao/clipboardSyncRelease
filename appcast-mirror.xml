@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- jsDelivr mirror of appcast.xml for networks where GitHub is unreachable. Enclosure URLs
+     point at jsDelivr-served copies of the release assets committed under releases/, so the
+     download works from the same source that served this feed. Keep the newest item(s) here in
+     sync with appcast.xml when releasing (same signature and length; only the URL differs). -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Clipboard Sync</title>
+        <link>https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/appcast-mirror.xml</link>
+        <description>Clipboard Sync macOS release feed (mirror)</description>
+        <language>en</language>
+        <item>
+            <title>0.1.17</title>
+            <description>smooth mouse control while clipboard images, files, or port-forward data are in flight: input rides a dedicated connection on the same port (auto-negotiated, falls back with older peers) and heavy encryption moved off the input thread; caps lock now syncs in both directions</description>
+            <pubDate>Fri, 10 Jul 2026 07:22:00 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSyncMac-0.1.17.zip"
+                sparkle:edSignature="mVltQtswZWIRs0y2qRZ1GNCNq76PweVKeMtLLmJzd3bKnyu8WAzt/46EQOuR4TkfR1q9ahvhzqeJIIchsz4dAg=="
+                length="4670047"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>

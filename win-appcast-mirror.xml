@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- jsDelivr mirror of win-appcast.xml for networks where GitHub is unreachable. Enclosure URLs
+     point at jsDelivr-served copies of the release assets committed under releases/, so the
+     download works from the same source that served this feed. Keep the newest item(s) here in
+     sync with win-appcast.xml when releasing (same signature and length; only the URL differs). -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Clipboard Sync</title>
+    <language>en</language>
+    <item>
+      <title>Clipboard Sync 0.1.14</title>
+      <sparkle:version>0.1.14</sparkle:version>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSyncWinSetup-v0.1.14.exe" sparkle:version="0.1.14" sparkle:shortVersionString="0.1.14" length="2896557" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="3Djz2quq/DMw/EpnIiHXv4C+XkwMcdAV0U3YFvfgjKVT7kgiUXb4Yne91hg9QPg+fNLhe4yBcCVFpts18fNOBA==" />
+    </item>
+  </channel>
+</rss>
