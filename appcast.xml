@@ -6,6 +6,19 @@
         <description>Clipboard Sync macOS release feed</description>
         <language>en</language>
         <item>
+            <title>0.1.21</title>
+            <description>new About (version and copyright), Project Homepage, and Send Feedback menu items on every platform; Linux now ships for x86_64 and ARM64</description>
+            <pubDate>Sat, 11 Jul 2026 12:20:00 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.21/ClipboardSync-0.1.21.zip"
+                sparkle:edSignature="RClUm1KOdSnOawZfqzgQU1goBrjMyLIz/AkakOtupcvC49kIEZRwfo7xRo9/3+mBfNWEJX38RpwhDLRo4VNEAg=="
+                length="4688992"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.20</title>
             <description>optional transport encryption: an Encrypt transport checkbox keeps password authentication (HMAC-signed envelopes) while skipping payload encryption on trusted networks; Screen Layout drags freely and snaps flush edge-to-edge on release; interop with the new Linux client</description>
             <pubDate>Sat, 11 Jul 2026 10:40:00 +0000</pubDate>
