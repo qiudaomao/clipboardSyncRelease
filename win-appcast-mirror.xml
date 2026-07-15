@@ -10,11 +10,11 @@
     <title>Clipboard Sync</title>
     <language>en</language>
     <item>
-      <title>Clipboard Sync 0.1.22</title>
-      <pubDate>Tue, 14 Jul 2026 16:29:39 +08:00</pubDate>
-      <sparkle:version>0.1.22</sparkle:version>
-      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
-      <enclosure url="https://gh-proxy.com/https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.22/ClipboardSyncSetup-v0.1.22.exe" sparkle:version="0.1.22" sparkle:shortVersionString="0.1.22" length="3044703" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="tFa7NoRNXtjDehnO//hFXndCPaTlxza4YpJCjS7ZeGooqRQQX+gqsPPmj99q/C1iYL2v3S1XB8C6sATMKw1lBg==" />
+      <title>Clipboard Sync 0.1.23</title>
+      <pubDate>Wed, 15 Jul 2026 13:25:16 +08:00</pubDate>
+      <sparkle:version>0.1.23</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <enclosure url="https://gh-proxy.com/https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.23/ClipboardSyncSetup-v0.1.23.exe" sparkle:version="0.1.23" sparkle:shortVersionString="0.1.23" length="3051109" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="85fkxbtiD09tThyQsEiJ+aP3mUKlS6UPkBLsvVYnZqeQZ+zUBGfWJbS8jWk8SNywMLUsWVK2o+qcylvS5EeODg==" />
     </item>
   </channel>
 </rss>

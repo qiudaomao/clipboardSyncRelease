@@ -10,16 +10,16 @@
         <description>Clipboard Sync macOS release feed (mirror)</description>
         <language>en</language>
         <item>
-            <title>0.1.22</title>
-            <description>Maintenance release to keep platform versions aligned; no macOS-specific changes in this version.</description>
-            <pubDate>Mon, 14 Jul 2026 16:30:00 +0000</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <title>0.1.23</title>
+            <description>Add Prevent System Sleep with timed and forever options, plus an optional low-battery safeguard that pauses below 20% while running on battery power.</description>
+            <pubDate>Wed, 15 Jul 2026 05:26:30 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSync-0.1.22.zip"
-                sparkle:edSignature="wHZ8PeeQxrPb0gIaTW5a1xJBS4kO+FozeiQeP/lpH54R2D64lSpN51ozL8lVQrhQU9UAR6zJk7qjo8zWvo27CA=="
-                length="4688968"
+                url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSync-0.1.23.zip"
+                sparkle:edSignature="C9plBifkvW2IkmHSppU34E2YiLIPbyAK01I1+RvrPjQsLZXPz4XwgcrCx7QwD37aMphdl7uSv48VZi3ptcrmDg=="
+                length="4728053"
                 type="application/octet-stream" />
         </item>
     </channel>
