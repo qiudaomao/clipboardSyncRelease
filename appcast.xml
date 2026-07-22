@@ -6,6 +6,19 @@
         <description>Clipboard Sync macOS release feed</description>
         <language>en</language>
         <item>
+            <title>0.1.29</title>
+            <description>Add an Apply button to the port-forward panel so rule edits can be committed without closing the window.</description>
+            <pubDate>Wed, 22 Jul 2026 15:26:10 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.29/ClipboardSync-0.1.29.zip"
+                sparkle:edSignature="mnb4UGivpLQRcYYPZYMhkJgDOq5q5jyiSHNMSG4v6MqlJGkGPSB2I1quFxeMc55hdyBVLqRan3KkBpiRh4K4Dg=="
+                length="4789068"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.28</title>
             <description>Keep shared screen layouts synchronized when monitors are rearranged or hot-plugged.</description>
             <pubDate>Wed, 22 Jul 2026 11:44:15 +0000</pubDate>
