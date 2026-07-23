@@ -6,6 +6,19 @@
         <description>Clipboard Sync macOS release feed</description>
         <language>en</language>
         <item>
+            <title>0.1.31</title>
+            <description>Stabilize shared screen layout across sleep/wake so monitor groups no longer drift when displays reconnect.</description>
+            <pubDate>Thu, 23 Jul 2026 03:36:57 +0000</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.31/ClipboardSync-0.1.31.zip"
+                sparkle:edSignature="5Pqd1M/5hcq6LGjB9lH92SsY3xsS98rt7RYlnMSzV7ARPGR+CbplP6osssJcB7PMtcDDJb+0f9uE/Fe+8KhGCA=="
+                length="4791332"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.30</title>
             <description>Fix macOS modifier and arrow key handling during input sharing.</description>
             <pubDate>Thu, 23 Jul 2026 03:29:12 +0000</pubDate>
