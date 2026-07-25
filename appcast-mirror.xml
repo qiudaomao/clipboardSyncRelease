@@ -10,6 +10,19 @@
         <description>Clipboard Sync macOS release feed (mirror)</description>
         <language>en</language>
         <item>
+            <title>0.1.32</title>
+            <description>Add Time Plan sleep-prevention mode: a weekly grid schedule for when Prevent System Sleep is active.</description>
+            <pubDate>Sat, 25 Jul 2026 04:47:58 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSync-0.1.32.zip"
+                sparkle:edSignature="rCqE2twV8fOnVol2+epEhmmVpD17dzZx9jt5oE/nsauSap8HklOlF5i33Y57jtmSDjfM8Fli862C/COmBD73Bg=="
+                length="4831277"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.31</title>
             <description>Stabilize shared screen layout across sleep/wake so monitor groups no longer drift when displays reconnect.</description>
             <pubDate>Thu, 23 Jul 2026 03:36:57 +0000</pubDate>
