@@ -10,6 +10,14 @@
     <title>Clipboard Sync</title>
     <language>en</language>
     <item>
+      <title>Clipboard Sync 0.1.36</title>
+      <pubDate>Thu, 30 Jul 2026 17:27:27 +08:00</pubDate>
+      <sparkle:version>0.1.36</sparkle:version>
+      <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
+      <enclosure url="https://gh-proxy.com/https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.36/ClipboardSyncSetup-v0.1.36.exe" sparkle:version="0.1.36" sparkle:shortVersionString="0.1.36" length="3071683" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="WDQseE3ByxqsJ/pcM6M9mUs7jKKtpr+zwnSpIK8QfZrI/xzi5SlUe4i6gDAMyFb2b6TxyYUJ97a95gjqzz9JCg==" />
+    </item>
+
+    <item>
       <title>Clipboard Sync 0.1.35</title>
       <description>Windows-only release.</description>
       <pubDate>Mon, 27 Jul 2026 15:15:13 +08:00</pubDate>
