@@ -10,6 +10,15 @@
     <title>Clipboard Sync</title>
     <language>en</language>
     <item>
+      <title>Clipboard Sync 0.1.37</title>
+      <description>Keep input-sharing drags continuous across peer monitor boundaries, release held remote mouse buttons reliably, and make canonical key mapping deterministic.</description>
+      <pubDate>Mon, 03 Aug 2026 18:38:31 +08:00</pubDate>
+      <sparkle:version>0.1.37</sparkle:version>
+      <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+      <enclosure url="https://gh-proxy.com/https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.37/ClipboardSyncSetup-v0.1.37.exe" sparkle:version="0.1.37" sparkle:shortVersionString="0.1.37" length="3073809" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="xRaF6vlGGtuo8mL0iLCArL2s8mXLdjbeWjDKDR/FOEw1Npd3UJOwkxObDTQXye6amtkUuXY7mCb/e1vAKDLfBQ==" />
+    </item>
+
+    <item>
       <title>Clipboard Sync 0.1.36</title>
       <description>Relay numeric keypad keys and mouse Back/Forward buttons during input sharing.</description>
       <pubDate>Thu, 30 Jul 2026 17:49:57 +08:00</pubDate>
