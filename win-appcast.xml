@@ -5,12 +5,20 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
+      <title>Clipboard Sync 0.2.0</title>
+      <description>Add optional Auto control-device selection based on the physical mouse currently in use, so mouse activity selects the controller while keyboard activity remains independent across devices.</description>
+      <pubDate>Wed, 05 Aug 2026 19:02:15 +08:00</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.2.0/ClipboardSyncSetup-v0.2.0.exe" sparkle:version="0.2.0" sparkle:shortVersionString="0.2.0" length="3074740" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="XY2HGMZDryHIOaN+F0s5fvX2tcAcCn/0vqKN7LyHox37qR15Cf1hUnceoFyvNrSMykNmnAxTjf6q1wrkA7cRDw==" />
+    </item>
+    <item>
       <title>Clipboard Sync 0.1.38</title>
       <description>Refresh the beta license release date and extend beta validity to 180 days.</description>
       <pubDate>Wed, 05 Aug 2026 12:28:46 +08:00</pubDate>
       <sparkle:version>0.1.38</sparkle:version>
       <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
-      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.38/ClipboardSyncSetup-v0.1.38.exe" sparkle:version="0.1.38" sparkle:shortVersionString="0.1.38" length="3074252" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="+P3Pizysl0mDRUKDUc1hp+bULtmmgq09s9VJAccZGZf09KCPmnzchX+3NuHGAIL1rY/mSEBPqi3Xb2AxVXedCA==" />
+      <enclosure url="https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.38/ClipboardSyncSetup-v0.1.38.exe" sparkle:version="0.1.38" sparkle:shortVersionString="0.1.38" length="3074252" sparkle:os="windows-x64" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="+P3Pizysl0mDRUKDUc1hp+bULtmmgq09s9VJAccZGZf09KCPmnzchX+3NuHGAIL1rY/mSEBPqi3Xb2AxVXedCA==" />
     </item>
     <item>
       <title>Clipboard Sync 0.1.37</title>

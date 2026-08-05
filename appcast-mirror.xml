@@ -10,6 +10,19 @@
         <description>Clipboard Sync macOS release feed (mirror)</description>
         <language>en</language>
         <item>
+            <title>0.2.0</title>
+            <description>Add optional Auto control-device selection based on the physical mouse currently in use, so mouse activity selects the controller while keyboard activity remains independent across devices.</description>
+            <pubDate>Wed, 05 Aug 2026 11:02:15 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSync-0.2.0.zip"
+                sparkle:edSignature="UVgOI2CAzp7WsuccOE789mIYeDY9UQLTC17rlnW6SR+Ju4/6wz8Uywr+e5hnVvWIE+Wt7fsVjM0yzEj9AQteCw=="
+                length="4867666"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.39</title>
             <description>Prevent equivalent macOS screenshot encodings from appearing as duplicate clipboard-history entries, and retain detailed clipboard timing and source logs for ongoing diagnosis.</description>
             <pubDate>Wed, 05 Aug 2026 07:52:19 +0000</pubDate>

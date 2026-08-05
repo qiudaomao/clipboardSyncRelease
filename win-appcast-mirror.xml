@@ -10,6 +10,14 @@
     <title>Clipboard Sync</title>
     <language>en</language>
     <item>
+      <title>Clipboard Sync 0.2.0</title>
+      <description>Add optional Auto control-device selection based on the physical mouse currently in use, so mouse activity selects the controller while keyboard activity remains independent across devices.</description>
+      <pubDate>Wed, 05 Aug 2026 19:02:15 +08:00</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <enclosure url="https://gh-proxy.com/https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.2.0/ClipboardSyncSetup-v0.2.0.exe" sparkle:version="0.2.0" sparkle:shortVersionString="0.2.0" length="3074740" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="zSp298umoGH2UEZKj0Ze6YslTLPayEWuo0JcJxh3cbzu9RIBNAfS4cMVtLPVmz5FQe+GWaM6Qhv0/FnzP/YTAw==" />
+    </item>
+    <item>
       <title>Clipboard Sync 0.1.38</title>
       <description>Refresh the beta license release date and extend beta validity to 180 days.</description>
       <pubDate>Wed, 05 Aug 2026 12:28:46 +08:00</pubDate>
