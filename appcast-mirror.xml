@@ -10,6 +10,19 @@
         <description>Clipboard Sync macOS release feed (mirror)</description>
         <language>en</language>
         <item>
+            <title>0.1.39</title>
+            <description>Prevent equivalent macOS screenshot encodings from appearing as duplicate clipboard-history entries, and retain detailed clipboard timing and source logs for ongoing diagnosis.</description>
+            <pubDate>Wed, 05 Aug 2026 07:52:19 +0000</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://cdn.jsdelivr.net/gh/qiudaomao/clipboardSyncRelease@main/releases/ClipboardSync-0.1.39.zip"
+                sparkle:edSignature="5n9N6JDZ4IXSpF4Lv5/eiAyUJbhS64XunCSP7gqGhJE8dBT4HE4CeDXv1gSYhCoa9VZMPHr2Kd75UWwSqLosDw=="
+                length="4858743"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.38</title>
             <description>Refresh the beta license release date and extend beta validity to 180 days.</description>
             <pubDate>Wed, 05 Aug 2026 04:29:09 +0000</pubDate>
