@@ -10,6 +10,14 @@
     <title>Clipboard Sync</title>
     <language>en</language>
     <item>
+      <title>Clipboard Sync 0.1.38</title>
+      <description>Refresh the beta license release date and extend beta validity to 180 days.</description>
+      <pubDate>Wed, 05 Aug 2026 12:28:46 +08:00</pubDate>
+      <sparkle:version>0.1.38</sparkle:version>
+      <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
+      <enclosure url="https://gh-proxy.com/https://github.com/qiudaomao/clipboardSyncRelease/releases/download/v0.1.38/ClipboardSyncSetup-v0.1.38.exe" sparkle:version="0.1.38" sparkle:shortVersionString="0.1.38" length="3074252" sparkle:os="windows-x64" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="+P3Pizysl0mDRUKDUc1hp+bULtmmgq09s9VJAccZGZf09KCPmnzchX+3NuHGAIL1rY/mSEBPqi3Xb2AxVXedCA==" />
+    </item>
+    <item>
       <title>Clipboard Sync 0.1.37</title>
       <description>Keep input-sharing drags continuous across peer monitor boundaries, release held remote mouse buttons reliably, and make canonical key mapping deterministic.</description>
       <pubDate>Mon, 03 Aug 2026 18:38:31 +08:00</pubDate>
